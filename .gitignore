@@ -1,0 +1,6 @@
+### Mac OS ###
+.DS_Store
+.idea
+allure-results
+logs
+target
